@@ -1,0 +1,29 @@
+{
+   "doCards": [
+       {
+           "id" : "1",
+           "description" : "Let someone read your last Message on Instagram",
+           "punishment": "Drink Bitch"
+           
+       },
+       {
+        "id" : "2",
+        "description" : "Take off one item of clothing",
+        "punishment": "Finish Drink"
+        
+        },
+        {
+            "id" : "3",
+            "description" : "You cannot look anyone in the eye until your next turn",
+            "punishment": "1 Shot"
+            
+        },
+        {
+            "id" : "4",
+            "description" : "",
+            "punishment": "Truth or dare",
+            "result": "Anyone who chooses Truth, has to finish there drink for picking the bitch option"
+        
+        }
+   ] 
+}
